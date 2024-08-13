@@ -10,7 +10,7 @@ echo "<br>";
 
 $luaspersegipanjang=67;
 $kelilinglingkaran=93.5;
-$nama="Dinda Musthakillah";
+$nama="<h1>Dinda Musthakillah</h1>";
 $hidup=True;
 
 var_dump($luaspersegipanjang);
