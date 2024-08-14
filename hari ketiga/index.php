@@ -5,7 +5,7 @@ $bilangan2=3;
 
 $sisaHasilBilangan=$bilangan1%$bilangan2;
 
-echo $bilangan1."modulus".$bilangan2."=".$sisaHasilBagi2,
+echo $bilangan1."modulus".$bilangan2."=".$sisaHasilBagi2;
 
 // echo $bilangan1;
 // echo "modulus";
