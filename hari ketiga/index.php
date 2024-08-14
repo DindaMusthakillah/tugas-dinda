@@ -17,5 +17,8 @@ echo $bilangan1."modulus".$bilangan2."=".$sisaHasilBagi2,
 
 $bilA=7;
 $bilB="7";
-var_dump($bilB);
-var_dump($bilA==$bilB);
+// var_dump($bilA);
+// var_dump($bilB);
+// var_dump($bilA!=$bilB);
+// var_dump($bilA<>$bilB);
+// var_dump($bilA!==$bilB);
